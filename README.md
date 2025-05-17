@@ -1,1 +1,1 @@
-# ai-design
+# AI driven design assistant
